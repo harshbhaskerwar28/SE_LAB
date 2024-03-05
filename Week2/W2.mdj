@@ -1,0 +1,79 @@
+{
+	"_type": "Project",
+	"_id": "AAAAAAFF+h6SjaM2Hec=",
+	"name": "HARSH",
+	"ownedElements": [
+		{
+			"_type": "UMLModel",
+			"_id": "AAAAAAGODSRm97m9ERg=",
+			"_parent": {
+				"$ref": "AAAAAAFF+h6SjaM2Hec="
+			},
+			"name": "Model1",
+			"ownedElements": [
+				{
+					"_type": "UMLClassDiagram",
+					"_id": "AAAAAAGODSRm97m+oKY=",
+					"_parent": {
+						"$ref": "AAAAAAGODSRm97m9ERg="
+					},
+					"name": "Library_mang"
+				}
+			]
+		},
+		{
+			"_type": "UMLModel",
+			"_id": "AAAAAAGODSbR3955n0M=",
+			"_parent": {
+				"$ref": "AAAAAAFF+h6SjaM2Hec="
+			},
+			"name": "Model2",
+			"ownedElements": [
+				{
+					"_type": "UMLClassDiagram",
+					"_id": "AAAAAAGODSbR3956tSg=",
+					"_parent": {
+						"$ref": "AAAAAAGODSbR3955n0M="
+					},
+					"name": "trainTicket_mang"
+				}
+			]
+		},
+		{
+			"_type": "UMLModel",
+			"_id": "AAAAAAGODSdhz+JCmqQ=",
+			"_parent": {
+				"$ref": "AAAAAAFF+h6SjaM2Hec="
+			},
+			"name": "Model3",
+			"ownedElements": [
+				{
+					"_type": "UMLClassDiagram",
+					"_id": "AAAAAAGODSdhz+JDR7g=",
+					"_parent": {
+						"$ref": "AAAAAAGODSdhz+JCmqQ="
+					},
+					"name": "Hospital_mang"
+				}
+			]
+		},
+		{
+			"_type": "UMLModel",
+			"_id": "AAAAAAGODSjmtz6/BYw=",
+			"_parent": {
+				"$ref": "AAAAAAFF+h6SjaM2Hec="
+			},
+			"name": "Model4",
+			"ownedElements": [
+				{
+					"_type": "UMLClassDiagram",
+					"_id": "AAAAAAGODSjmtz7AULs=",
+					"_parent": {
+						"$ref": "AAAAAAGODSjmtz6/BYw="
+					},
+					"name": "Bank_mang"
+				}
+			]
+		}
+	]
+}
