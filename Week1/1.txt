@@ -1,0 +1,38 @@
+
+Week 1: Introduction to Software Requirement Specification (SRS) Document
+
+Welcome to Week 1 of the Software Engineering Laboratory! This week, we dive into the fundamental concept of Software Requirement Specification (SRS) document.
+
+What is SRS?
+The SRS document serves as a blueprint for the software project, outlining the functional and non-functional requirements, constraints, and specifications. It acts as a communication bridge between stakeholders, developers, and testers, ensuring a clear understanding of the project objectives and scope.
+
+Week 1 Objectives:
+Understanding SRS Components: Explore the key sections and components of an SRS document, including:
+
+Introduction
+Scope
+Functional Requirements
+Non-functional Requirements
+User Interfaces
+System Interfaces
+Data Requirements
+Constraints
+Assumptions and Dependencies
+Appendices
+Preparing SRS Document: Learn the best practices and methodologies for preparing an effective SRS document. Understand the importance of clarity, completeness, consistency, and verifiability in documenting requirements.
+
+Hands-on Practice: Engage in hands-on exercises to draft a sample SRS document for a chosen project. Collaborate with your team members to gather requirements, analyze stakeholder needs, and document clear and concise specifications.
+
+Key Activities:
+Lecture Sessions: Attend interactive lectures and discussions to grasp the concepts of SRS document preparation.
+Practical Exercises: Work on practical exercises to apply theoretical knowledge and develop practical skills in SRS documentation.
+Group Discussions: Participate in group discussions to share insights, brainstorm ideas, and refine SRS document drafts.
+Feedback and Review: Provide feedback on peer SRS documents and receive constructive criticism to improve your documentation skills.
+Deliverables:
+By the end of Week 1, you are expected to:
+
+Prepare a draft of the SRS document for your chosen project.
+Present your SRS document to the class for feedback and review.
+Incorporate feedback and refine your SRS document to ensure clarity and completeness.
+Conclusion:
+Week 1 sets the foundation for effective software development by introducing you to the critical process of SRS document preparation. Embrace the challenge, collaborate with your peers, and strive for excellence in documenting software requirements. Your journey towards becoming a proficient software engineer begins here!
